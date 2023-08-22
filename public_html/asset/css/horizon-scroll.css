@@ -1,0 +1,29 @@
+.dark-container {
+    overflow: hidden;
+    position: relative
+}
+
+.logo-container {
+    display: flex;
+    animation: scroll 40s linear infinite
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(100%)
+    }
+
+    100% {
+        transform: translateX(-1000%)
+    }
+}
+
+.logo-column {
+    flex: 0 0 auto;
+    padding: 0 15px
+}
+
+.logo-slider {
+    max-width: 130px;
+    height: auto
+}

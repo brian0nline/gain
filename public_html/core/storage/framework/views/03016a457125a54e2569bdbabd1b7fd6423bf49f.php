@@ -1,0 +1,1 @@
+<?php /**PATH /home/freebpbk/public_html/core/resources/views/system/user/offer/_ogads.blade.php ENDPATH**/ ?>

@@ -1,0 +1,11 @@
+{
+  "name": "harold-loader",
+  "version": "0.1.0",
+  "description": "Harold is a page loader plugin for JQuery.",
+  "devDependencies": {
+    "event-stream": "^3.1.5",
+    "gulp": "^3.6.2",
+    "gulp-concat": "^2.2.0",
+    "gulp-uglify": "^0.3.0"
+  }
+}

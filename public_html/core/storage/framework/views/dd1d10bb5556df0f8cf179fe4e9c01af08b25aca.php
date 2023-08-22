@@ -1,0 +1,1 @@
+<?php /**PATH /home/freebpbk/demo.freeloot.net/core/resources/views/system/user/offer/_digi.blade.php ENDPATH**/ ?>
